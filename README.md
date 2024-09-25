@@ -12,11 +12,11 @@
 <div align="center" style="display: inline_block"></br>
   <img
        height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=HumbertoStuani&show_icons=true&theme=dracula&count_private=true"
+       src="https://github-readme-stats.vercel.app/api?username=HumbertoStuani&show_icons=true&theme=dark&count_private=true"
    />
   <img
        height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoStuani&layout=compact&theme=dracula"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbertoStuani&layout=compact&theme=dark"
   />
 </div>
 </br>
