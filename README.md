@@ -4,7 +4,7 @@
 <div style="display: inline_block"></br>
     <h3>Sobre mim</h3>
     <p align="left" style="font-size: 15px;">
-        Eu sou estudante de Sistema de Informação pela Unoeste (6/8) que busca ingressar no mercado de trabalho como desenvolvedor. Dentre os meus conhecimentos, destaco pelo desenvolvimento backend e também com manipulação de dados. Além disso, sou uma pessoa comunicativa e com tendência ao trabalho coletivo, com bom relacionamento interpessoal e muito curioso.
+        Eu sou estudante de Sistema de Informação pela Unoeste (7/8) que busca ingressar no mercado de trabalho como desenvolvedor. Dentre os meus conhecimentos, destaco pelo desenvolvimento backend e também com manipulação de dados. Além disso, sou uma pessoa comunicativa e com tendência ao trabalho coletivo, com bom relacionamento interpessoal e muito curioso.
     </p>
 </div>
 
